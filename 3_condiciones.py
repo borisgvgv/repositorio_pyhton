@@ -11,15 +11,9 @@ tenemos una cláusula "else" opcional, que también debe ir seguida por un símb
 
 """
 
-num1 = int(input( "Dime un numero " ))
-num2 = int(input( "Dime otro numero " ))
+num1 = int(input("Dime un numero "))
+num2 = int(input("Dime otro numero "))
 if num1 > num2:
-    print( "El primero es mayor" )
+    print("El primero es mayor")
 else:
-    print ("El segundo es mayor" )
-
-    num3= int(input("Dime otro numero: "))
-    
-
-
-
+    print("El segundo es mayor")
